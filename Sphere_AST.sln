@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sphere_AST", "Sphere_AST\Sphere_AST.csproj", "{17EBFD9C-33D1-465F-959D-9634797C7DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17EBFD9C-33D1-465F-959D-9634797C7DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EBFD9C-33D1-465F-959D-9634797C7DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EBFD9C-33D1-465F-959D-9634797C7DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EBFD9C-33D1-465F-959D-9634797C7DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {773A417E-6B89-42DE-A2E8-7A69187AF28D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\bin\Debug\netcoreapp3.1\Sphere_AST.exe
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\bin\Debug\netcoreapp3.1\Sphere_AST.deps.json
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\bin\Debug\netcoreapp3.1\Sphere_AST.runtimeconfig.json
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\bin\Debug\netcoreapp3.1\Sphere_AST.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\bin\Debug\netcoreapp3.1\Sphere_AST.dll
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\bin\Debug\netcoreapp3.1\Sphere_AST.pdb
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\obj\Debug\netcoreapp3.1\Sphere_AST.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\obj\Debug\netcoreapp3.1\Sphere_AST.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\obj\Debug\netcoreapp3.1\Sphere_AST.AssemblyInfo.cs
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\obj\Debug\netcoreapp3.1\Sphere_AST.dll
+C:\Users\andre\source\repos\Sphere_AST\Sphere_AST\obj\Debug\netcoreapp3.1\Sphere_AST.pdb
